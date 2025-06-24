@@ -2,21 +2,21 @@
 
 ### day 1
 
-network basics
+# network basics
 - potential questions
 - network security vs network design
 - Soc Analyst vs Network Security analyst
 
 ### day 2
 
-SOC
+# SOC
 - sentinel (tool)
 - potential blue team tools
 - more tools
 
 ### day 3
 
-certifications
+# certifications
 - red team 
 - blue team
 - interviews
